@@ -10,7 +10,7 @@ import { FaReact, FaNode  } from "react-icons/fa";
 const HomePage = () => (
   <Box>
     <HeroSection
-      title="Welcome to TecTemple"
+      title="Welcome to TecTemple home"
       subtitle="Your Gateway to Success in IT Training"
       backgroundImage="/images/homeBanner.jpg" // Path to the image in the public folder
     />
